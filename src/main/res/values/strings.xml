@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaverickAndSkills</string>
+    <string name="maverick_skills"><![CDATA[Maverick & Skills]]></string>
+    <string name="members">Members :</string>
+    <string name="gurvir_singh_tarlok_singh_bhogal">Gurvir Singh Tarlok Singh Bhogal</string>
+    <string name="abhishek_shinde">Abhishek Shinde</string>
+    <string name="shubham_dilip_padamwar">Shubham Dilip Padamwar</string>
+    <string name="rishi_kumar_soni">Rishi Kumar Soni</string>
+    <string name="team_01_agile_workers">Team 01 - Agile Workers</string>
+    <string name="abhishek_nagaraj">Abhishek Nagaraj</string>
+</resources>
