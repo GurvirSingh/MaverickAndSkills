@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643160860940",
+    "firebase_url": "https://maverickandskills-71202.firebaseio.com",
+    "project_id": "maverickandskills-71202",
+    "storage_bucket": "maverickandskills-71202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643160860940:android:dae16635451b569d17c129",
+        "android_client_info": {
+          "package_name": "com.example.maverickandskills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643160860940-ha3n1r1emhvftrubsh1upvomivetp1g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maverickandskills",
+            "certificate_hash": "dbe74c18653509498a9cc58442e1cc6c9c3708bd"
+          }
+        },
+        {
+          "client_id": "643160860940-t9tr32k88eo0e2oev6lfigsqgcucvo7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3jze6bL_z6w_-4zES06tqg469f1rM34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643160860940-t9tr32k88eo0e2oev6lfigsqgcucvo7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
