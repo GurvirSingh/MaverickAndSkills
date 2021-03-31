@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="385dp"
+        android:layout_height="230dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="16dp"
+        android:padding="10dp"
+        app:cardBackgroundColor="@android:color/secondary_text_dark_nodisable"
+        app:cardCornerRadius="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.050000012">
+
+        <Button
+            android:id="@+id/joinEvent"
+            android:layout_width="126dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="60px"
+            android:layout_marginLeft="60px"
+            android:layout_marginTop="175dp"
+            android:background="#4CAF50"
+            android:text="Join Event +"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/joinChat"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="250dp"
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="175dp"
+            android:background="#3F51B5"
+            android:text="Join Chat"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/eName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="10dp"
+            android:text="Event Name"
+            android:textSize="21sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/eDate"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="60dp"
+            android:layout_marginLeft="10dp"
+            android:padding="10dp"
+            android:text="Event Date"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/eTime"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="60dp"
+            android:layout_marginLeft="214dp"
+            android:padding="10dp"
+            android:text="Event Time"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/eDesc"
+            android:layout_width="match_parent"
+            android:layout_height="51dp"
+            android:layout_marginVertical="110dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:padding="10dp"
+            android:text="Event Description"
+            android:textSize="18sp" />
+
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
